@@ -32,7 +32,7 @@ export const HeroSection = () => {
           </div>
         </div>
         <div className="space-y-6">
-          <img src="../../public/projects/Perpuskit.png" alt="" />
+          <img src="/projects/Perpuskit.png" alt="PerpusKit" />
         </div>
       </div>
     </section>
